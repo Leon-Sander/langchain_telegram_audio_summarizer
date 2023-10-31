@@ -32,6 +32,8 @@ This project aims to build a Telegram bot that transcribes and summarizes voice 
 
 ## Configuration
 Add your OpenAI API key, Telegram Bot Token, and User ID into the `.env` file.
+If you don't want to use OpenAI, you can also load a local model, just make sure the 
+parameter local_whisper and local_llm are set to True, and download a model from huggingface.
 
 
 ## Usage

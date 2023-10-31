@@ -1,5 +1,9 @@
 python-telegram-bot
+ctransformers
 python-dotenv
+transformers
 langchain
+librosa
 openai
+torch
 pydub
